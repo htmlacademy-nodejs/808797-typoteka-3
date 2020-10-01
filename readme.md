@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Гурин](https://up.htmlacademy.ru/nodejs/3/user/808797).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Цапко](https://htmlacademy.ru/profile/id1350525).
 
 ---
 
